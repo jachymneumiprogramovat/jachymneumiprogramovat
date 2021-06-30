@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jachym and W3schools is better than stackoverflow
-mainly focused on javascrypt on elementary level.
+- 👋 Hi, I’m @jachym and W3schools is better than stackoverflow change my mind
+- mainly focused on javascrypt on elementary level.
 
 
 <!---
